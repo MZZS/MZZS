@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Location: NC, USA
+My Favorite Fluorophore/Metal-Isotope: That's a great question! I have no idea what that is.
+
+Previous Coding Experience: ~3 months learning R.
+
+What I Hope to Get From This Course: Up my flow game.
